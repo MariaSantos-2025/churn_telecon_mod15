@@ -1,0 +1,28 @@
+# Ignorar configurações do PyCharm
+.idea/
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+
+# Ignorar arquivos temporários
+*.pyc
+__pycache__/
+
+# Configurações locais do VS Code (se usar)
+.vscode/
+
+# Arquivos de sistema ocultos (macOS, Linux, etc.)
+.DS_Store
+Thumbs.db
+
+# Ignorar notebooks de teste
+*_checkpoint.ipynb
+
+# Arquivos de log ou saída temporária
+*.log
+*.out
+
+
+
+
